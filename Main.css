@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(255, 254, 240);
+    font-family: 'Sofia Sans', sans-serif;
+    text-align: justify;
+    
+    
+}
+h1{
+    text-align: center;
+    border-style:dotted;
+    border-radius: 10px;
+}
+a {
+    border: 10px;
+    text-decoration: none;
+    color: inherit;
+}
+
+li{
+    list-style-type: none;
+    
+}
+
